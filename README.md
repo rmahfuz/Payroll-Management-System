@@ -39,22 +39,28 @@ Monthly Pay File
 • Salary statement in the following format
 
 Salary Statement for the month of: February 2007
+
 --------------------------------------------------------------------------------
 ENo Name Designation Basic Gross Deduction Net
+
 --------------------------------------------------------------------------------
 1001 MUNNAPPA DRIVER 12000 24600 1500 23100
 1002 SUDARSHAN MANAGER 35000 71750 2000 69750
 1003 KESHAV SECURTY OFF 20000 41000 500 40500
+
 --------------------------------------------------------------------------------
 • Salary Slip in the following format
+
 --------------------------------------------------------------------------------
 Salary Slip for the month of: February 2007
 Employee No: 1001                                       Employee Name: MUNNAPPA
+
 --------------------------------------------------------------------------------
 Basic 12000                                              Deductions 1500
 DA 6600
 HRA 4200
 Conveyance 1800
+
 --------------------------------------------------------------------------------
 Gross Pay 24600                                           Net      23100
 Validations:
